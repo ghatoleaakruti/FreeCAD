@@ -499,7 +499,7 @@ Multiplier of 'Font size'</string>
  Value multiplied by the line width is the line spacing.</string>
           </property>
           <property name="minimum">
-           <double>-10.000000000000000</double>
+           <double>-99.000000000000000</double>
           </property>
           <property name="value">
            <double>2.000000000000000</double>
